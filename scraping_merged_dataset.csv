@@ -1,0 +1,688 @@
+gender,source,tags,country
+male,api,data science,United States
+male,api,data science,Denmark
+female,api,data science,United States
+,api,data science,
+male,api,data science,
+male,api,data science,United States
+male,api,data science,Switzerland
+male,api,data science,Japan
+male,api,data science,
+male,api,data science,Mexico
+male,api,data science,United States
+male,api,data science,United States
+male,api,data science,United States
+male,api,data science,United States
+male,api,data science,Sweden
+male,api,"data science, computer science",United States
+male,api,"data science, computer science",
+male,api,"data science, computer science",India
+male,api,data science,United States
+male,api,data science,United States
+male,api,data science,Egypt
+male,api,data science,
+male,api,data science,
+male,api,data science,United States
+male,api,data science,
+male,api,data science,
+female,api,data science,
+male,api,data science,Nepal
+male,api,data science,India
+male,api,data science,
+female,api,data science,United States
+male,api,data science,United States
+male,api,data science,
+male,api,data science,India
+female,api,data science,United States
+male,api,data science,United States
+male,api,data science,
+male,api,data science,United States
+,api,data science,Japan
+male,api,data science,India
+,api,data science,Australia
+female,api,data science,
+male,api,data science,
+male,api,data science,
+female,api,data science,United States
+female,api,data science,United States
+,api,data science,France
+female,api,data science,United Kingdom
+male,api,data science,
+female,api,data science,India
+male,api,data science,
+male,api,data science,India
+male,api,data science,Mexico
+male,api,data science,
+male,api,data science,Canada
+male,api,data science,
+,api,data science,United States
+female,api,data science,United States
+male,api,data science,Australia
+male,api,data science,United Kingdom
+male,api,data science,India
+female,api,data science,Brazil
+female,api,data science,Kenya
+male,api,data science,Brazil
+male,api,data science,Sweden
+female,api,data science,France
+female,api,data science,
+female,api,data science,
+male,api,data science,
+,api,data science,China
+male,api,data science,India
+male,api,data science,China
+male,api,machine learning,United States
+male,api,machine learning,
+male,api,"machine learning, artificial intelligence, deep learning",Croatia
+male,api,machine learning,Belgium
+male,api,machine learning,
+male,api,machine learning,
+male,api,machine learning,
+male,api,machine learning,United States
+male,api,machine learning,Sweden
+male,api,machine learning,
+male,api,machine learning,
+,api,machine learning,Canada
+male,bio,machine learning,
+male,api,machine learning,United States
+male,api,machine learning,
+male,api,machine learning,Taiwan
+male,api,"machine learning, artificial intelligence, deep learning",United Kingdom
+female,api,machine learning,United States
+male,api,machine learning,Germany
+,api,machine learning,Ukraine
+male,api,machine learning,France
+male,api,machine learning,
+male,api,machine learning,Spain
+male,api,machine learning,Croatia
+female,api,machine learning,Finland
+male,api,machine learning,India
+,api,machine learning,China
+male,api,machine learning,
+,api,machine learning,China
+male,api,machine learning,China
+female,api,machine learning,
+male,api,machine learning,China
+,api,machine learning,China
+,api,machine learning,
+male,api,machine learning,China
+,api,machine learning,Australia
+male,api,machine learning,United States
+male,api,machine learning,United States
+male,api,machine learning,
+male,api,machine learning,
+male,api,machine learning,Spain
+male,api,machine learning,Canada
+male,api,machine learning,Philippines
+male,api,"machine learning, artificial intelligence",India
+male,api,machine learning,United States
+male,api,machine learning,United States
+male,api,"machine learning, artificial intelligence",
+male,api,machine learning,
+male,api,machine learning,Brazil
+male,api,machine learning,United States
+male,api,machine learning,United States
+male,api,machine learning,Czechia
+male,api,machine learning,Switzerland
+male,api,machine learning,Australia
+male,api,machine learning,United States
+male,api,machine learning,Germany
+male,api,machine learning,Canada
+male,api,machine learning,Singapore
+male,api,machine learning,
+male,api,machine learning,Germany
+male,api,machine learning,
+male,api,machine learning,United States
+male,api,machine learning,Brazil
+male,api,artificial intelligence,United Kingdom
+male,api,artificial intelligence,Italy
+male,api,artificial intelligence,United States
+,api,artificial intelligence,
+female,api,artificial intelligence,
+male,api,artificial intelligence,Morocco
+male,api,artificial intelligence,Brazil
+male,api,artificial intelligence,China
+female,api,artificial intelligence,India
+male,api,artificial intelligence,
+male,api,artificial intelligence,United States
+male,api,artificial intelligence,Germany
+female,api,artificial intelligence,India
+male,api,artificial intelligence,India
+male,api,artificial intelligence,
+male,api,artificial intelligence,Hungary
+male,api,artificial intelligence,Canada
+male,api,artificial intelligence,Germany
+male,api,artificial intelligence,Italy
+male,api,artificial intelligence,India
+female,api,artificial intelligence,Canada
+,api,artificial intelligence,Oman
+male,api,artificial intelligence,
+female,api,artificial intelligence,
+male,api,artificial intelligence,China
+male,api,artificial intelligence,
+female,api,artificial intelligence,Netherlands
+male,api,artificial intelligence,
+female,api,artificial intelligence,China
+male,api,artificial intelligence,
+male,api,artificial intelligence,Germany
+male,api,artificial intelligence,
+male,api,artificial intelligence,Canada
+male,api,artificial intelligence,Canada
+male,api,artificial intelligence,
+male,bio,artificial intelligence,Germany
+female,api,artificial intelligence,Taiwan
+female,api,artificial intelligence,Ethiopia
+male,api,artificial intelligence,
+male,api,artificial intelligence,
+male,api,artificial intelligence,
+male,api,artificial intelligence,Mexico
+male,api,artificial intelligence,Romania
+male,api,artificial intelligence,Netherlands
+male,api,artificial intelligence,Australia
+female,api,artificial intelligence,China
+male,api,artificial intelligence,Netherlands
+male,api,artificial intelligence,South Korea
+male,api,artificial intelligence,Moldova
+female,api,artificial intelligence,Colombia
+,api,artificial intelligence,
+male,api,artificial intelligence,India
+male,api,artificial intelligence,United Kingdom
+female,api,artificial intelligence,United States
+male,api,artificial intelligence,India
+,api,artificial intelligence,
+male,api,artificial intelligence,United States
+,api,deep learning,
+,api,deep learning,
+,api,deep learning,China
+,api,deep learning,
+,api,deep learning,
+male,api,deep learning,China
+male,api,deep learning,China
+female,api,deep learning,China
+,api,deep learning,China
+,api,deep learning,China
+male,api,deep learning,United Kingdom
+male,api,deep learning,Australia
+,api,deep learning,China
+male,api,deep learning,China
+female,api,deep learning,France
+,api,deep learning,China
+female,api,deep learning,China
+male,api,deep learning,Argentina
+male,api,deep learning,
+,api,deep learning,
+male,api,deep learning,
+male,api,deep learning,China
+male,api,deep learning,China
+male,api,deep learning,China
+female,api,deep learning,China
+male,api,deep learning,China
+male,api,deep learning,
+,api,deep learning,Poland
+male,api,deep learning,United States
+male,api,deep learning,Poland
+male,api,deep learning,
+,api,deep learning,
+female,api,deep learning,
+male,api,deep learning,Poland
+male,api,deep learning,Poland
+male,api,deep learning,
+male,api,deep learning,
+,api,deep learning,Poland
+male,api,deep learning,Poland
+male,api,deep learning,
+male,api,deep learning,
+male,api,deep learning,Poland
+female,api,deep learning,
+male,api,deep learning,
+male,api,deep learning,United States
+male,api,deep learning,Australia
+male,api,deep learning,United States
+male,api,deep learning,Poland
+male,api,deep learning,
+,api,deep learning,
+male,api,deep learning,United States
+male,api,deep learning,
+male,api,deep learning,India
+male,api,deep learning,Taiwan
+male,api,deep learning,United States
+male,api,deep learning,United States
+male,api,deep learning,South Korea
+male,api,deep learning,France
+male,api,deep learning,United States
+male,api,deep learning,United States
+male,api,deep learning,
+male,api,deep learning,United States
+male,api,deep learning,United Kingdom
+male,api,deep learning,South Korea
+male,api,deep learning,
+male,api,deep learning,United States
+male,api,deep learning,United States
+female,api,deep learning,
+male,api,deep learning,Germany
+male,api,deep learning,
+male,api,deep learning,Canada
+male,api,deep learning,United States
+male,api,deep learning,
+male,api,deep learning,India
+male,api,deep learning,India
+male,api,deep learning,United States
+male,api,deep learning,
+male,api,deep learning,United Kingdom
+male,api,deep learning,
+male,api,deep learning,Indonesia
+male,api,deep learning,United Kingdom
+male,api,deep learning,
+male,api,deep learning,India
+male,api,deep learning,United States
+male,api,deep learning,Canada
+female,api,deep learning,United States
+male,api,deep learning,
+male,api,deep learning,United States
+male,api,deep learning,
+male,api,deep learning,
+male,api,deep learning,United States
+male,api,deep learning,Germany
+male,api,deep learning,France
+male,api,deep learning,
+male,api,deep learning,Germany
+male,api,deep learning,India
+male,api,deep learning,Australia
+male,api,deep learning,
+male,api,deep learning,
+male,api,deep learning,Spain
+,api,big data,China
+male,api,big data,China
+,api,big data,
+male,api,big data,France
+,api,big data,Liberia
+female,api,big data,China
+,api,big data,China
+male,api,big data,
+,api,big data,China
+,api,big data,China
+,api,big data,
+,api,big data,China
+male,api,big data,
+,api,big data,
+male,api,neural network,
+male,api,neural network,Germany
+male,api,neural network,
+male,api,neural network,United States
+male,api,neural network,Turkey
+female,api,neural network,
+male,api,neural network,
+male,api,neural network,United States
+male,api,neural network,
+male,api,neural network,United States
+male,api,neural network,United States
+male,api,neural network,Germany
+male,api,neural network,United Kingdom
+male,api,neural network,
+male,api,neural network,Romania
+male,api,neural network,Russia
+male,api,neural network,
+male,api,neural network,Netherlands
+male,api,neural network,Brazil
+,api,neural network,
+male,api,neural network,Taiwan
+male,api,neural network,
+male,api,neural network,Germany
+male,api,neural network,
+male,api,neural network,New Zealand
+male,api,neural network,Singapore
+male,api,neural network,
+male,api,neural network,United States
+male,api,neural network,United States
+male,api,neural network,United States
+male,api,neural network,United States
+male,api,neural network,United Kingdom
+male,api,neural network,
+male,api,neural network,China
+female,api,neural network,Japan
+female,api,neural network,Brazil
+female,api,neural network,United Kingdom
+male,api,neural network,
+female,api,neural network,United States
+male,api,neural network,Israel
+male,api,neural network,United States
+male,api,neural network,China
+male,api,neural network,Denmark
+male,api,computer science,United States
+male,api,computer science,Australia
+,api,computer science,
+male,api,computer science,India
+male,api,computer science,United Kingdom
+male,api,computer science,China
+male,api,computer science,
+male,api,computer science,Serbia
+male,api,computer science,Canada
+male,api,computer science,Russia
+male,api,computer science,Algeria
+female,api,computer science,France
+male,api,computer science,
+male,api,computer science,United States
+male,api,computer science,
+female,api,computer science,Sweden
+male,api,computer science,United States
+male,api,computer science,India
+male,api,computer science,Indonesia
+female,api,computer science,United States
+male,api,computer science,South Africa
+male,api,computer science,France
+male,api,computer science,
+male,api,computer science,India
+male,api,computer science,United States
+male,api,computer science,
+female,api,computer science,
+male,api,computer science,India
+male,api,computer science,United States
+male,api,computer science,Germany
+male,api,computer science,India
+male,api,computer science,Switzerland
+male,api,computer science,United States
+male,api,computer science,Brazil
+male,api,computer science,
+male,api,computer science,Russia
+male,api,computer science,India
+male,api,computer science,United States
+male,api,computer science,Germany
+male,api,computer science,United States
+female,api,computer science,China
+male,api,computer science,
+male,api,computer science,
+male,api,computer science,
+male,api,computer science,Brazil
+male,api,computer science,
+female,api,computer science,China
+male,api,computer science,Armenia
+male,api,computer science,
+male,api,computer science,Germany
+male,api,computer science,Indonesia
+male,api,computer science,Vietnam
+male,api,computer science,Bulgaria
+male,api,computer science,Italy
+female,api,computer science,
+male,api,computer science,Bangladesh
+male,api,computer science,South Korea
+male,api,computer science,Taiwan
+male,api,computer science,India
+female,api,computer science,China
+male,api,computer science,Brazil
+male,api,computer science,Germany
+male,api,computer science,
+male,api,computer science,Germany
+male,api,computer science,Poland
+male,api,computer science,Poland
+male,api,computer science,Indonesia
+male,api,computer science,
+male,api,computer science,Japan
+male,api,computer science,
+male,api,computer science,Indonesia
+male,api,computer science,India
+male,api,computer science,United States
+male,api,computer science,United States
+male,api,computer science,United States
+male,api,computer science,United States
+male,api,computer science,France
+,api,computer science,China
+,api,computer science,Singapore
+,api,computer science,Malawi
+male,api,computer science,
+male,api,computer science,
+,api,computer science,
+male,api,blockchain,United States
+male,api,blockchain,Switzerland
+male,api,blockchain,
+,api,blockchain,
+male,api,blockchain,Romania
+male,api,blockchain,Hungary
+male,api,blockchain,New Zealand
+male,api,blockchain,Japan
+male,api,blockchain,
+,api,blockchain,
+,api,blockchain,
+,api,blockchain,China
+,api,blockchain,China
+male,api,blockchain,China
+,api,blockchain,
+male,api,blockchain,Japan
+male,api,blockchain,
+,api,blockchain,
+,api,blockchain,Pakistan
+male,api,blockchain,China
+male,api,blockchain,
+male,api,blockchain,
+male,api,blockchain,United States
+male,api,blockchain,United States
+male,api,blockchain,Sweden
+male,api,blockchain,United States
+male,api,blockchain,
+male,api,blockchain,United States
+male,api,blockchain,
+male,api,blockchain,Israel
+male,api,blockchain,
+male,api,blockchain,United States
+male,api,blockchain,
+male,api,blockchain,
+male,api,blockchain,Slovakia
+male,api,blockchain,United States
+male,api,blockchain,Slovenia
+male,api,blockchain,United States
+,api,blockchain,
+male,api,blockchain,
+male,api,blockchain,United States
+female,api,blockchain,Japan
+male,api,blockchain,United States
+male,api,blockchain,United States
+male,api,blockchain,Netherlands
+female,api,cloud computing,United States
+male,api,cloud computing,United States
+,api,cloud computing,Democratic Republic of the Congo
+male,api,cloud computing,Ukraine
+male,api,cloud computing,Brazil
+male,api,cloud computing,United States
+male,api,cloud computing,Costa Rica
+female,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,Nepal
+male,api,cloud computing,Portugal
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,France
+male,api,cloud computing,United States
+male,api,cloud computing,
+,api,cloud computing,
+male,api,cloud computing,Hungary
+male,api,cloud computing,
+male,api,cloud computing,New Zealand
+male,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,United States
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,India
+male,api,cloud computing,United States
+male,api,cloud computing,Netherlands
+male,api,cloud computing,India
+male,api,cloud computing,Netherlands
+female,api,cloud computing,India
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,Netherlands
+male,api,cloud computing,Uruguay
+male,api,cloud computing,Netherlands
+male,api,cloud computing,Netherlands
+female,api,cloud computing,Canada
+male,api,cloud computing,
+male,api,cloud computing,
+,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,Canada
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,United States
+,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,
+female,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,Spain
+male,api,cloud computing,Canada
+male,api,cloud computing,Argentina
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,United States
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,India
+male,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,United States
+male,api,cloud computing,Japan
+male,api,cloud computing,
+male,api,cloud computing,Netherlands
+male,api,cloud computing,Brazil
+female,api,cloud computing,
+male,api,cloud computing,
+male,api,cloud computing,Pakistan
+male,api,cloud computing,Thailand
+male,api,cloud computing,
+female,api,cloud computing,Spain
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,
+male,api,cloud computing,India
+male,api,cloud computing,United States
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,Germany
+male,api,cloud computing,United Kingdom
+male,api,cloud computing,
+male,api,cloud computing,
+,api,data science,
+,api,machine learning,
+male,api,"Business Process Management,     Data Science,     Process Mining,     Petri nets,     Information Systems",Poland
+male,api,"Artificial intelligence,     Data science,     Machine learning,     Behavior informatics,     Enterprise innovation",Australia
+male,api,"Machine Learning,     Natural Language Processing,     Precision Medicine,     Artificial Intelligence,     Data",Indonesia
+male,api,,Ireland
+male,api,"machine learning,     information systems,     data mining,     kdd,     parallel processing",Norway
+female,api,"data science,     visualisation,     statistics",Spain
+male,api,,Italy
+male,api,"Artificial Intelligence,     Machine Learning,     Data Science,     Finance,     Digital Platforms",United States
+male,api,"data science,     stochastic modeling,     artificial intelligence,     biochemistry,     human geography",United States
+male,api,"analytics,     business analytics,     information systems,     business process management,     artificial intelligence",United States
+female,api,"Artificial Intelligence,    Machine Learning,    Data Mining",China
+male,api,Machine Learning,Turkey
+male,api,"machine learning,    computer science,    statistics,    artificial intelligence,    optimization",United States
+male,api,"Machine Learning,    cognitive neuroscience,    natural language understanding",United States
+male,api,"Machine Learning,    Artificial Intelligence,    Medical Physics,    Medical Imaging,    Radiobiology",United States
+male,api,"Machine Learning,    Computational Sustainability,    Artificial Intelligence,    Reinforcement Learning",United States
+male,api,"Intellectual property,    artificial intelligence and law,    machine learning and law,    information privacy law,    computers and law",Portugal
+female,api,"Infectious Disease Dynamics,    Epidemiology",
+male,api,"Geometry,    Curvature,    Counterfactual Simulation,    Disease Dynamics",United States
+male,api,"Biomedical informatics,   Epidemiology",
+female,api,,Italy
+male,api,"Medical Informatics,   Bioinformatics,   Data Mining",Italy
+male,api,"Fault Diagnosis,   Process Monitoring,   Cyber-Physical Systems,   Artificial Intelligence,   http:/",China
+male,api,"Medical image processing,   Deep learning",
+male,api,"fault diagnosis,   fault tolerant control,   adaptive control,   robust control,   optimal control",China
+male,api,"Data-driven Control/Diagnosis/Optimization,   Machine Learning/Deep Learning/Computer Vision (AI),   Safety/Reliability/Maintenance",Norway
+male,api,"Artificial Intelligence,   Industrial Automation,   Data Driven Techniques,   Industrial Cyber-Physical Systems.",
+male,api,"genomics,   diabetes,   hypertensio",Canada
+female,api,"diabète,   hypertension,   génétique",
+male,api,"Human-Centered AI,   Digital Transformation,   XAI,   interactive Machine Learning,   trustworthy AI",Austria
+male,api,"Machine Learning in NeuroImaging,   Functional Connectivity",United States
+male,api,"Machine Learning,   Artificial Intelligence,   Service robotics,   AI and society,   Sustainability",Austria
+male,api,"AI,  machine learning,  computer vision,  robotics,  image compression",United States
+male,api,"Machine learning,  deep learning,  artificial intelligence",Indonesia
+male,api,"machine learning,  psychology,  artificial intelligence,  cognitive science,  computer science",Canada
+male,api,Deep Learning,United Kingdom
+male,api,"Machine learning,           Artificial Intelligence",Norway
+female,api,"Image Processing,           Deep Learning",Bangladesh
+female,api,"Data Mining,           Machine Learning,           Deep Learning,           Information security",
+,api,"Data mining,           Computer Networks,           Soft Computing",Norway
+male,api,"deep learning,           computer vision",China
+female,api,"computer vision,           multimodal learning",China
+male,api,"computer vision,           video analysis,           deep learning,           multimedia information retrieval",United States
+male,api,"Computer Vision,           Machine Learning,           Deep learning,           Multimedia",China
+male,api,"computer science,           artificial intelligence,           reinforcement learning,           neural networks,           physics",Saudi Arabia
+female,api,"Big Data Analytics,          Data Science,          Information Security",Turkey
+male,api,"Statistics,          machine learning,          finance,          economics,          operations research",United States
+female,api,"Statistics,          Econometrics,          Applied Probability",United States
+male,api,"Machine Learning,          Large Foundation Models for AI,          AI for Science and Finance",United States
+male,api,"Data Management,          Data Science,          Urban Informatics,          Data Stream Processing,          Big Data",Indonesia
+male,api,,United States
+male,api,"Blockchain,          Edge-Cloud Computing,          IoT-Smart Cities,          Metaverse",Australia
+male,api,"Mobile Cloud Computing,          Network Security,          Wireless Networking",
+female,api,Information Systems,Malaysia
+male,api,"Innovation,          Entrepreneurship,          Growth,          Sustainability,          Grand Challenges",
+female,api,,United States
+male,api,"Social Physics,          Honest Signals,          Computational Social Science,          Network and Complexity Science",Germany
+male,api,"Economics,          Information Economics,          Economics of AI,          Productivity,          Economics of Information Systems",
+female,api,"biology,          medicine,          computing,          technology,          materials science",United Kingdom
+male,api,"Tribology,         Design",Norway
+male,api,,
+,api,"Computer Science,         Artificial Intelligence,         Cybersecurity/Digital-Forensic,         Terrorism,         Nuclear Security",Guyana
+male,api,"Digital Forensic,         Malware,         IDS,         Software Engineering,         Computer Security",
+,api,"Computer Science,         Cryptography,         Computer Security,         Artificial Intelligence ( Statistical and Neural Language Models)""""",Nigeria
+male,api,"Sensometrics,         Sensory Evaluation,         Psychometrics,         Brain imaging,         Statistics",Norway
+male,api,"Cognitive psychology,         Chemo perception,         wine expertise,         effect of culture on food choice",
+,api,"Molecular modeling,         Computational chemistry",Germany
+male,api,"Programming languages and compilers,        theory,        software,        quantum computing..",United States
+male,api,"Database Systems,        Data Mining",Indonesia
+male,api,"DSP,        communications protocols,        DPI,        encryption",
+male,api,"operating systems,        science of computing,        innovation process,        technology transfer",United States
+male,api,"Real-Time and Embedded Systems,        Computer Science Education",Indonesia
+male,api,,India
+female,api,"Morphological Computing,        Foundations of Information,        Computing and Philosophy",
+female,api,"Computer science education,        software engineering edu,        data science education,        GenAI in education",Israel
+female,api,"Computer Science Education,        Computational Thinking,        Integrative STEM Education",Israel
+male,api,"Blockchain,       Smart Contract,       Services Computing,       Software Reliability",China
+,api,"Industrial Internet of Things,       Blockchain Technologies,       Extended Reality,       Big Data Analytics",China
+male,api,"software engineering,       software architecture,       model driven engineering",China
+male,api,,
+male,api,"Digital Finance,       Trading,       Market Microstructure,       Financial Market Regulation,       FinTech",Germany
+male,api,"Digital Business,       Electronic Commerce,       Social Networks,       Information Systems,       Applied Machine Learning",
+male,api,"Banking,       Corporate Finance,       Sustainable Finance,       Household Finance",Germany
+male,api,"Machine Learning,       Federated Learning,       Soft Computing,       Computer Vision,       Blockchain",Pakistan
+male,api,"Signal processing,       Image processing,       Wireless communications,       Computer Vision,       Deep learning",Vietnam
+male,api,"Information Security,       Applied Cryptography,       Blockchain",China
+male,api,"DLT technologies and Blockchains,       Networking,       Cloud systems,       SDN,       Telecommunication",
+male,api,"reseaux,       telecommunications",France
+male,api,"Security,       Privacy,       Digital Currencies,       Smart Contracts",
+male,api,"Information Security,       Decentralized Intelligence,       Large Language Models,       Decentralized Finance",
+male,api,"Digital strategy and transformation,       innovation management,       AI and its impact on the firm",United States
+male,api,"innovation,       contests,       community,       digital transformation,       artifical intelligence",Norway
+male,api,"computer security,       computer science,       emerging technologies,       standards",United States
+male,api,"Computer Security,       Network Security,       Intrusion Detection,       Algorithmic Complexity,       Graph Theory",United States
+female,api,Cybersecurity,
+male,api,Cloud computing distributed systems,United Kingdom
+male,api,"Cloud Computing,      Edge Computing,      Connected and Autonomous Vehicles,      Artificial Intelligence",
+male,api,"Information Systems,      Digital Health,      Cloud Computing,      Blockchain,      Trustworthy AI",Germany
+female,api,"parallel algorithm,      parallel computing,      fractional differential equation,      high performance computing",China
+male,api,"Cloud Computing,      Distributed Systems,      Virtualization",Singapore
+male,api,"Cloud Computing,      Data Centers,      Edge Computing,      Internet of Things,      Quantum Computing",Singapore
+male,api,"Computational Electromagnetics,      Computer Networks",Norway
+,api,Computational Methods for Engineering & Leadership,United States
+male,api,Electrical Power Systems,Germany
+,api,"Image Processing,      Cybercrime,      Cybersecurity,      Data Mining,      Genetic Algorithms",Cape Verde

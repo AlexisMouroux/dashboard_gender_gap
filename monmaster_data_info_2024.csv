@@ -1,0 +1,183 @@
+Établissement,Académie de l’établissement,Région de l'établissement,Filière de formation,Effectif total des candidats pour une formation,Dont effectif des candidates pour une formation,Effectif total des candidats ayant accepté la proposition de l’établissement (admis),Dont effectif des candidates admises,Dont effectif des admis issus du même établissement,Dont effectif des admis issus de la même académie,% d’admis dont filles,Dont effectif des candidats garçons pour une formation,% des candidates pour une formation,Dont effectif des candidats garçons admis,% admis meme academie,% admis meme établissement
+Université Paris Cité,Paris,Île-de-France,Génie Informatique en alternance (GENIAL),1018,267,18,3,9,13,16.7,751,26.2,15,72.2,50.0
+Université Paris Nanterre,Versailles,Île-de-France,Données et société,153,120,10,9,2,3,90.0,33,78.4,1,30.0,20.0
+Université Paris Nanterre,Versailles,Île-de-France,Données et société,131,98,5,4,1,1,80.0,33,74.8,1,20.0,20.0
+Université Paris Cité,Paris,Île-de-France,Protection et valorisation des données de l'entreprise,839,370,24,10,23,23,41.7,469,44.1,14,95.8,95.8
+Université Paris-Est Créteil,Créteil,Île-de-France,Informatique et droit,375,251,10,5,1,2,50.0,124,66.9,5,20.0,10.0
+Université de Lille,Lille,Hauts-de-France,Ingénierie des projets informatiques nouvelles technologies - en alternance,620,214,6,1,6,6,16.7,406,34.5,5,100.0,100.0
+Université Paris-Saclay,Versailles,Île-de-France,M1 DataScale : Gestion de données et extraction de connaissances à large échelle #PR1065,433,147,18,6,1,14,33.3,286,33.9,12,77.8,5.6
+Université Gustave Eiffel,Créteil,Île-de-France,Qualité Sécurité Informatique,183,83,8,4,1,3,50.0,100,45.4,4,37.5,12.5
+Université de Perpignan Via Domitia,Montpellier,Occitanie,Intelligence Artificielle et Automatique Avancée pour la gestion des énergies (I3A),82,23,16,3,3,3,18.8,59,28.0,13,18.8,18.8
+Université de Lille,Lille,Hauts-de-France,Management de l'intelligence artificielle en santé,108,59,10,2,6,6,20.0,49,54.6,8,60.0,60.0
+Université de Lille,Lille,Hauts-de-France,Machine learning,493,97,19,1,10,14,5.3,396,19.7,18,73.7,52.6
+Université de Limoges,Limoges,Nouvelle-Aquitaine,"ISICG : INFORMATIQUE, SYNTHESE D'IMAGES ET CONCEPTION GRAPHIQUE",90,17,11,1,2,2,9.1,73,18.9,10,18.2,18.2
+Université de Limoges,Limoges,Nouvelle-Aquitaine,ACSYON : Optimisation mathématique pour la science des données,46,21,4,0,1,1,0.0,25,45.7,4,25.0,25.0
+Institut polytechnique de Grenoble,Grenoble,Auvergne-Rhône-Alpes,M1 Réseaux Informatiques d'Entreprise (RIE),586,124,10,0,0,9,0.0,462,21.2,10,90.0,0.0
+Université de Pau et des Pays de l'Adour,Bordeaux,Nouvelle-Aquitaine,Systèmes Informatiques pour le Génie de la Logistique Industrielle et des Services (SIGLIS),32,2,1,0,1,1,0.0,30,6.2,1,100.0,100.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Bioinformatique et Génomique Environnementale (BGE),69,39,8,5,1,1,62.5,30,56.5,3,12.5,12.5
+Université Paris 1 - Panthéon Sorbonne,Paris,Île-de-France,Sciences des données et histoire,43,19,8,5,5,5,62.5,24,44.2,3,62.5,62.5
+Université de Rennes,Rennes,Bretagne,Science des Données pour la Décision Publique,99,49,3,1,2,2,33.3,50,49.5,2,66.7,66.7
+Université de Rennes,Rennes,Bretagne,Science des Données en Santé Publique,97,51,5,1,1,4,20.0,46,52.6,4,80.0,20.0
+Université de Rouen Normandie,Normandie,Normandie,Science des données,342,117,14,8,11,11,57.1,225,34.2,6,78.6,78.6
+Le Mans Université,Nantes,Pays de la Loire,Intelligence artificielle,327,66,8,1,6,6,12.5,261,20.2,7,75.0,75.0
+Université Bretagne Sud,Rennes,Bretagne,Applications interactives et données numériques (AIDN),114,12,17,1,7,8,5.9,102,10.5,16,47.1,41.2
+Université de Caen Normandie,Normandie,Normandie,Linguistique et traitement des données,87,59,5,3,3,3,60.0,28,67.8,2,60.0,60.0
+Université de Rennes,Rennes,Bretagne,Méthodes informatiques appliquées à la gestion des entreprises - MIAGE Parcours Alternance,766,252,30,7,28,28,23.3,514,32.9,23,93.3,93.3
+Université de Poitiers,Poitiers,Nouvelle-Aquitaine,Statistique et Données du Vivant,144,57,11,2,4,4,18.2,87,39.6,9,36.4,36.4
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Intelligence Artificielle (IA),511,124,2,1,0,0,50.0,387,24.3,1,0.0,0.0
+Université de Strasbourg,Strasbourg,Grand Est,Droit comptable et données,75,33,11,9,6,7,81.8,42,44.0,2,63.6,54.5
+Université de Haute-Alsace,Strasbourg,Grand Est,Informatique et mobilité,268,53,20,3,8,11,15.0,215,19.8,17,55.0,40.0
+Université de Poitiers,Poitiers,Nouvelle-Aquitaine,"Génie Physiologique, Biotechnologique et Informatique",279,169,72,36,51,52,50.0,110,60.6,36,72.2,70.8
+Université Paris Cité,Paris,Île-de-France,Protection des données personnelles,373,277,7,2,0,1,28.6,96,74.3,5,14.3,0.0
+Université de Montpellier,Montpellier,Occitanie,Bioinformatique,257,123,18,7,4,4,38.9,134,47.9,11,22.2,22.2
+Université de Montpellier,Montpellier,Occitanie,Bioinformatique,124,73,3,2,1,1,66.7,51,58.9,1,33.3,33.3
+Université Paris Cité,Paris,Île-de-France,Biologie Informatique - Ingénierie de Plate-forme en Biologie,331,194,22,14,9,11,63.6,137,58.6,8,50.0,40.9
+Université Paris Cité,Paris,Île-de-France,Master Parisien de Recherche en Informatique (MPRI),146,44,5,1,5,5,20.0,102,30.1,4,100.0,100.0
+Université de Lorraine,Nancy-Metz,Grand Est,Numérique et sciences informatiques,29,7,8,2,2,2,25.0,22,24.1,6,25.0,25.0
+Université Paris Nanterre,Versailles,Île-de-France,Systèmes d’Information fiables et intelligence des données _  Alternance - Apprentissage,688,281,15,8,9,9,53.3,407,40.8,7,60.0,60.0
+Université Sorbonne Paris Nord,Créteil,Île-de-France,Traitement informatique et linguistique des documents écrits,157,113,6,3,1,3,50.0,44,72.0,3,50.0,16.7
+Université Gustave Eiffel,Créteil,Île-de-France,Musique et Informatique Musicale,48,13,14,4,3,3,28.6,35,27.1,10,21.4,21.4
+Université de Lille,Lille,Hauts-de-France,Ingénierie des projets informatiques nouvelles technologies,517,177,26,14,21,22,53.8,340,34.2,12,84.6,80.8
+Université Paris-Saclay,Versailles,Île-de-France,M1 Mathématiques et Intelligence Artificielle #PR1094,362,100,23,4,13,14,17.4,262,27.6,19,60.9,56.5
+Université Paris-Saclay,Versailles,Île-de-France,M1 MIAGE - Informatique décisionnelle Apprentissage #PR599,718,297,21,7,17,18,33.3,421,41.4,14,85.7,81.0
+Université Paris-Saclay,Versailles,Île-de-France,M1 Master parisien de recherche en Informatique (Mpri) - campus orsay #PR1176,139,31,9,1,5,5,11.1,108,22.3,8,55.6,55.6
+La Rochelle Université,Poitiers,Nouvelle-Aquitaine,Ingénierie des données,413,111,13,2,6,8,15.4,302,26.9,11,61.5,46.2
+La Rochelle Université,Poitiers,Nouvelle-Aquitaine,Architecte des données,425,110,8,1,2,5,12.5,315,25.9,7,62.5,25.0
+Université de Montpellier,Montpellier,Occitanie,"Epidémiologie, Données de Santé, Biostatistique",184,119,17,12,2,4,70.6,65,64.7,5,23.5,11.8
+Université de Lille,Lille,Hauts-de-France,Informatique (Numérique et Sciences informatiques),64,19,9,3,3,4,33.3,45,29.7,6,44.4,33.3
+Université de Montpellier,Montpellier,Occitanie,Intelligence artificielle et science des données,1104,259,30,9,17,17,30.0,845,23.5,21,56.7,56.7
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Bioinformatique et Génomique Environnementale (BGE),106,51,8,4,0,0,50.0,55,48.1,4,0.0,0.0
+Université de Pau et des Pays de l'Adour,Bordeaux,Nouvelle-Aquitaine,Méthodes Stochastiques et Informatiques pour la Décision (MSID),85,24,13,3,11,11,23.1,61,28.2,10,84.6,84.6
+Université Savoie Mont Blanc,Grenoble,Auvergne-Rhône-Alpes,Télécommunications et réseaux informatiques,379,87,15,1,9,13,6.7,292,23.0,14,86.7,60.0
+Université de Bordeaux,Bordeaux,Nouvelle-Aquitaine,"Image, Optimisation, et sciences des Données",253,74,15,4,3,4,26.7,179,29.2,11,26.7,20.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Intelligence Artificielle : Fondements et Applications (IAFA),1014,231,47,8,14,19,17.0,783,22.8,39,40.4,29.8
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Interactions de l’Informatique et des Mathématiques pour l’Intelligence Artificielle (IMA),233,59,3,0,0,1,0.0,174,25.3,3,33.3,0.0
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Informatique,1200,239,51,11,41,42,21.6,961,19.9,40,82.4,80.4
+Université Toulouse - Jean Jaurès,Toulouse,Occitanie,"Linguistique, Informatique, Technologies du Langage (LITL)",141,102,7,5,2,2,71.4,39,72.3,2,28.6,28.6
+Université de Bordeaux,Bordeaux,Nouvelle-Aquitaine,Cryptologie et sécurité informatique,163,48,15,4,9,9,26.7,115,29.4,11,60.0,60.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,"Signal, Image et Apprentissage Automatique (SIA2)",214,66,16,6,6,6,37.5,148,30.8,10,37.5,37.5
+Université de Bordeaux,Bordeaux,Nouvelle-Aquitaine,Cryptologie et sécurité informatique,585,111,13,3,9,9,23.1,474,19.0,10,69.2,69.2
+Université Clermont Auvergne,Clermont-Ferrand,Auvergne-Rhône-Alpes,Statistiques et traitement de données,380,132,24,4,13,13,16.7,248,34.7,20,54.2,54.2
+Université Clermont Auvergne,Clermont-Ferrand,Auvergne-Rhône-Alpes,Analyse et modélisation des données,222,115,14,6,9,9,42.9,107,51.8,8,64.3,64.3
+Université d'Angers,Nantes,Pays de la Loire,Ingénierie des données et évaluations économétriques,240,78,13,5,8,8,38.5,162,32.5,8,61.5,61.5
+Université de Rennes,Rennes,Bretagne,Sciences Informatique (SIF),107,16,2,0,1,1,0.0,91,15.0,2,50.0,50.0
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Bioinformatique et Biologie Computationnelle (BBC),64,34,11,9,8,10,81.8,30,53.1,2,90.9,72.7
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Intelligence Artificielle (IA),517,113,11,0,5,5,0.0,404,21.9,11,45.5,45.5
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE),856,311,27,3,25,25,11.1,545,36.3,24,92.6,92.6
+Université de Strasbourg,Strasbourg,Grand Est,Sciences des données et systèmes complexes,442,105,17,6,13,14,35.3,337,23.8,11,82.4,76.5
+Université de Strasbourg,Strasbourg,Grand Est,Langues et sciences des données,10,7,3,1,1,1,33.3,3,70.0,2,33.3,33.3
+Université de Strasbourg,Strasbourg,Grand Est,"Technologies des langues - Traitement automatique des langues, informatique et traduction",204,142,18,13,3,4,72.2,62,69.6,5,22.2,16.7
+Aix-Marseille Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Fiabilité et sécurité informatique (FSI),468,103,22,4,13,13,18.2,365,22.0,18,59.1,59.1
+Aix-Marseille Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Intelligence artificielle et apprentissage automatique (IAAA),594,121,21,3,14,14,14.3,473,20.4,18,66.7,66.7
+Université Paris sciences et lettres,Paris,Île-de-France,Méthodes informatiques appliquées à la gestion des entreprises - MIAGE (M1),934,400,27,10,0,22,37.0,534,42.8,17,81.5,0.0
+Université Paris sciences et lettres,Paris,Île-de-France,"Informatique, Décision, Données  (M1)",952,307,33,9,1,29,27.3,645,32.2,24,87.9,3.0
+Sorbonne Université,Paris,Île-de-France,Bioinformatique et Modélisation,248,173,17,13,9,10,76.5,75,69.8,4,58.8,52.9
+Sorbonne Université,Paris,Île-de-France,Langue et informatique,134,86,17,10,8,9,58.8,48,64.2,7,52.9,47.1
+Institut catholique de Paris,Paris,Île-de-France,Droit de l'intelligence artificielle,183,123,24,17,5,9,70.8,60,67.2,7,37.5,20.8
+Université de Franche-Comté,Besançon,Bourgogne-Franche-Comté,Intelligence artificielle et systèmes de santé,85,43,14,4,4,4,28.6,42,50.6,10,28.6,28.6
+Université Paris Cité,Paris,Île-de-France,Biologie Informatique - Ingénierie de Plate-forme en Biologie,195,124,4,3,3,3,75.0,71,63.6,1,75.0,75.0
+Université Paris Cité,Paris,Île-de-France,Projets informatiques et Stratégie d'entreprise,72,38,17,9,3,11,52.9,34,52.8,8,64.7,17.6
+Université Paris Cité,Paris,Île-de-France,"Données : Algorithmes, Traitement et Analyse",541,186,27,5,21,23,18.5,355,34.4,22,85.2,77.8
+Nantes Université,Nantes,Pays de la Loire,Informatique,59,16,8,3,0,1,37.5,43,27.1,5,12.5,0.0
+Université Paris Cité,Paris,Île-de-France,"Double master Informatique fondamentale et appliquée/Mathématiques et applications : parcours Sciences de la données/Mathématiques, Informatique, sciences de la données",330,125,12,1,6,7,8.3,205,37.9,11,58.3,50.0
+Université Paris Cité,Paris,Île-de-France,Double master Informatique fondamentale et appliquée/Mathématiques et applications : parcours Cryptologie-sécurité/Mathématiques Informatique et applications à la cryptologie,218,75,10,1,1,4,10.0,143,34.4,9,40.0,10.0
+Université Paris Nanterre,Versailles,Île-de-France,Systèmes d’Information fiables et intelligence des données,650,280,10,1,9,9,10.0,370,43.1,9,90.0,90.0
+Université Sorbonne Paris Nord,Créteil,Île-de-France,Informatique Biomédicale,233,158,15,11,4,6,73.3,75,67.8,4,40.0,26.7
+Université Paris-Saclay,Versailles,Île-de-France,M1 Informatique pour la Science des Données - par alternance #PR792,1199,409,18,8,6,6,44.4,790,34.1,10,33.3,33.3
+Université Paris-Est Créteil,Créteil,Île-de-France,Bioinformatique et Ingénierie Multi-omique en Santé et Environnement (Biomics),54,40,7,4,3,3,57.1,14,74.1,3,42.9,42.9
+Université de Montpellier,Montpellier,Occitanie,Statistique et Science des Données (SSD),370,123,25,16,18,20,64.0,247,33.2,9,80.0,72.0
+Université Paris 8 - Vincennes - Saint-Denis,Créteil,Île-de-France,Informatique et Big Data,649,210,40,10,18,23,25.0,439,32.4,30,57.5,45.0
+Université de Perpignan Via Domitia,Montpellier,Occitanie,Intelligence Artificielle et Automatique Avancée pour la gestion des énergies (I3A),114,36,1,0,0,1,0.0,78,31.6,1,100.0,0.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Interactions de l’Informatique et des Mathématiques pour l’Intelligence Artificielle (IMA),168,45,5,0,3,4,0.0,123,26.8,5,80.0,60.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Sciences et Ingénierie des Données (SID),338,118,20,6,13,14,30.0,220,34.9,14,70.0,65.0
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Statistique et Science des Données,280,103,7,2,7,7,28.6,177,36.8,5,100.0,100.0
+Université de Limoges,Limoges,Nouvelle-Aquitaine,CRYPTIS : SECURITE INFORMATIQUE ET CRYPTOLOGIE,227,45,26,5,23,23,19.2,182,19.8,21,88.5,88.5
+Université Jean Monnet,Lyon,Auvergne-Rhône-Alpes,Création contemporaine et nouvelles technologies - option Réalisateur en informatique musicale,23,7,9,2,2,2,22.2,16,30.4,7,22.2,22.2
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Méthodes informatiques appliquées à la Gestion des Entreprises,338,106,16,4,14,14,25.0,232,31.4,12,87.5,87.5
+Université Toulouse - Jean Jaurès,Toulouse,Occitanie,Ingénierie et science des données orientées métiers - application à la gestion de production (ISM-AG),128,59,24,17,16,16,70.8,69,46.1,7,66.7,66.7
+Université Toulouse - Jean Jaurès,Toulouse,Occitanie,"Acquisition, Traitement, Restitution par l'Image des Données en Archéologie (ATRIDA)",80,50,12,8,6,6,66.7,30,62.5,4,50.0,50.0
+Conservatoire national des arts et métiers,Paris,Île-de-France,"Sécurité informatique, cybersécurité et cyber menaces",810,152,25,2,0,3,8.0,658,18.8,23,12.0,0.0
+Université de Rennes,Rennes,Bretagne,"Science des Données, Statistique et Econométrie",384,153,28,9,3,16,32.1,231,39.8,19,57.1,10.7
+Université Bretagne Sud,Rennes,Bretagne,Systèmes et applications pour l'informatique mobile (SAIM),165,25,8,3,2,3,37.5,140,15.2,5,37.5,25.0
+Université de Caen Normandie,Normandie,Normandie,Intelligence artificielle et facteurs humains,132,16,18,5,4,4,27.8,116,12.1,13,22.2,22.2
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Expertise et Analyse des données Economiques,256,119,20,10,15,15,50.0,137,46.5,10,75.0,75.0
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE),536,190,22,4,17,17,18.2,346,35.4,18,77.3,77.3
+Université de Strasbourg,Strasbourg,Grand Est,Chémoinformatique,45,23,6,4,5,5,66.7,22,51.1,2,83.3,83.3
+Université de Strasbourg,Strasbourg,Grand Est,Bioinformatique et bioimagerie structurale,123,65,17,12,10,10,70.6,58,52.8,5,58.8,58.8
+Aix-Marseille Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Géométrie et informatique graphique (GIG),156,42,21,3,16,16,14.3,114,26.9,18,76.2,76.2
+Université de Picardie Jules-Verne,Amiens,Hauts-de-France,INFORMATIQUE - CLOUD COMPUTING AND MOBILITY (INSSET),127,20,10,0,9,0,0.0,107,15.7,10,0.0,90.0
+Université Paris sciences et lettres,Paris,Île-de-France,Méthodes informatiques appliquées à la gestion des entreprises - MIAGE (M1),1089,439,52,21,0,47,40.4,650,40.3,31,90.4,0.0
+Sorbonne Université,Paris,Île-de-France,Bio-Informatique et modélisation (BIM),216,106,15,8,2,5,53.3,110,49.1,7,33.3,13.3
+Sorbonne Université,Paris,Île-de-France,"Données, Apprentissage et Connaissances (DAC)",923,279,30,10,15,18,33.3,644,30.2,20,60.0,50.0
+Université Bretagne Sud,Rennes,Bretagne,Science des données,496,138,15,6,11,11,40.0,358,27.8,9,73.3,73.3
+Université de Strasbourg,Strasbourg,Grand Est,Intelligence en données de santé,65,42,19,10,8,8,52.6,23,64.6,9,42.1,42.1
+Université Paris Cité,Paris,Île-de-France,Intelligence artificielle distribuée,766,199,10,1,1,1,10.0,567,26.0,9,10.0,10.0
+Université Paris Cité,Paris,Île-de-France,Apprentissage machine pour la sciences des données (AMSD),1005,322,23,7,20,20,30.4,683,32.0,16,87.0,87.0
+Université Paris Cité,Paris,Île-de-France,Machine Learning pour la Science des Données (MLSD),1161,385,19,7,14,14,36.8,776,33.2,12,73.7,73.7
+Université de Lorraine,Nancy-Metz,Grand Est,Numérique et sciences informatiques,3,1,1,1,0,0,100.0,2,33.3,0,0.0,0.0
+Université Paris Cité,Paris,Île-de-France,"Ingénierie Statistique et Informatique de la Finance, de l’Assurance et du Risque (ISIFAR)",64,23,1,0,1,1,0.0,41,35.9,1,100.0,100.0
+Université Paris Cité,Paris,Île-de-France,"Mathématiques, Informatique, Sciences des données (simple master)",297,117,3,2,0,0,66.7,180,39.4,1,0.0,0.0
+Université Paris Cité,Paris,Île-de-France,Protection et valorisation des données de l'entreprise,968,390,21,3,19,19,14.3,578,40.3,18,90.5,90.5
+Université Paris-Saclay,Versailles,Île-de-France,M1 MIAGE - Informatique décisionnelle #PR598,740,319,25,11,20,21,44.0,421,43.1,14,84.0,80.0
+Université Paris 8 - Vincennes - Saint-Denis,Créteil,Île-de-France,Ingénierie en intelligence artificielle,775,232,19,7,4,6,36.8,543,29.9,12,31.6,21.1
+Université de Montpellier,Montpellier,Occitanie,Informatique Robotique - IROBOT,361,88,12,1,6,7,8.3,273,24.4,11,58.3,50.0
+Centrale Lille Institut,Lille,Hauts-de-France,Management de l’intelligence artificielle en santé (MIAS),42,23,9,6,0,3,66.7,19,54.8,3,33.3,0.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Bioinformatique et biologie des systèmes (BBS),283,148,10,5,7,7,50.0,135,52.3,5,70.0,70.0
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Statistiques et science des données,298,101,12,3,9,9,25.0,197,33.9,9,75.0,75.0
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Sciences et Ingénierie des Données (SID),562,160,15,2,8,9,13.3,402,28.5,13,60.0,53.3
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Méthodes informatiques appliquées à la Gestion des Entreprises,145,58,4,0,2,2,0.0,87,40.0,4,50.0,50.0
+Université Toulouse - Jean Jaurès,Toulouse,Occitanie,Ingénierie continue pour les écosystèmes logiciels et données (ICE-LD),265,85,14,5,8,10,35.7,180,32.1,9,71.4,57.1
+Université de Rouen Normandie,Normandie,Normandie,Bioinformatique Modélisation et Statistique,167,88,12,6,6,6,50.0,79,52.7,6,50.0,50.0
+Université de Rennes,Rennes,Bretagne,Intelligence Artificielle (IA),788,151,8,1,7,7,12.5,637,19.2,7,87.5,87.5
+Université de Reims Champagne-Ardenne,Reims,Grand Est,Intelligence artificielle,453,114,6,2,6,6,33.3,339,25.2,4,100.0,100.0
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Informatique,648,141,3,0,2,2,0.0,507,21.8,3,66.7,66.7
+Aix-Marseille Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Science et ingénierie des données (SID),514,152,22,8,21,21,36.4,362,29.6,14,95.5,95.5
+Avignon Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Intelligence Artificielle (IA),397,102,4,2,0,0,50.0,295,25.7,2,0.0,0.0
+Avignon Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Intelligence Artificielle (IA),402,75,17,2,9,11,11.8,327,18.7,15,64.7,52.9
+Sorbonne Université,Paris,Île-de-France,"Systèmes électroniques, systèmes informatiques (SESI)",485,132,30,8,21,23,26.7,353,27.2,22,76.7,70.0
+Sorbonne Université,Paris,Île-de-France,Informatique Quantique (Quantum Information) QI,141,37,8,2,0,1,25.0,104,26.2,6,12.5,0.0
+Université de Lille,Lille,Hauts-de-France,Méthodes informatiques et statistiques pour les OMICS,261,126,19,9,7,8,47.4,135,48.3,10,42.1,36.8
+Institut catholique de Lyon,Lyon,Auvergne-Rhône-Alpes,M1 : Droit du marché digital et des données - UCLy,96,65,26,17,0,15,65.4,31,67.7,9,57.7,0.0
+Université Paris Cité,Paris,Île-de-France,Linguistique-Informatique,85,51,15,9,3,4,60.0,34,60.0,6,26.7,20.0
+Université Paris Cité,Paris,Île-de-France,"Données, connaissances et intelligence",793,257,18,3,14,14,16.7,536,32.4,15,77.8,77.8
+Université de Montpellier,Montpellier,Occitanie,Sciences Numériques et Technologiques – Numérique et Sciences informatiques (SNT-SNI),39,10,4,1,0,0,25.0,29,25.6,3,0.0,0.0
+Université Paris Cité,Paris,Île-de-France,"Ingénierie Statistique et Informatique de la Finance, de l’Assurance et du Risque (ISIFAR)",322,118,28,7,9,10,25.0,204,36.6,21,35.7,32.1
+Université Paris Cité,Paris,Île-de-France,"Mathématiques, informatique et applications à la cryptologie (simple master)",188,76,8,4,3,7,50.0,112,40.4,4,87.5,37.5
+Université Paris Nanterre,Versailles,Île-de-France,Systèmes d’Information fiables et intelligence des données,582,251,7,1,6,6,14.3,331,43.1,6,85.7,85.7
+Université Paris-Saclay,Versailles,Île-de-France,M1 Bio-informatique et biostatistiques #PR602,472,283,22,10,7,10,45.5,189,60.0,12,45.5,31.8
+Université Paris 8 - Vincennes - Saint-Denis,Créteil,Île-de-France,Informatique et Big Data,397,135,24,10,0,4,41.7,262,34.0,14,16.7,0.0
+CY Cergy Paris Université,Versailles,Île-de-France,Professeur des lycées et des collèges (CAPES) : numérique et sciences informatiques,56,18,15,5,4,5,33.3,38,32.1,10,33.3,26.7
+Université Paris 8 - Vincennes - Saint-Denis,Créteil,Île-de-France,Cybersécurité et sciences des données,233,63,10,5,2,3,50.0,170,27.0,5,30.0,20.0
+Université Paris 8 - Vincennes - Saint-Denis,Créteil,Île-de-France,Cybersécurité et sciences des données,282,78,8,3,0,1,37.5,204,27.7,5,12.5,0.0
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Acquisition et Traitement de Données Multi-dimensionnelles,43,15,11,1,6,6,9.1,28,34.9,10,54.5,54.5
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Double Compétence : Informatique et Science Sociales,119,52,8,2,2,2,25.0,67,43.7,6,25.0,25.0
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,Informatique et Cognition,123,48,20,3,18,18,15.0,75,39.0,17,90.0,90.0
+Université de Pau et des Pays de l'Adour,Bordeaux,Nouvelle-Aquitaine,Mathématiques et Informatique pour le Big Data (MIBD),103,29,6,3,4,4,50.0,74,28.2,3,66.7,66.7
+Université Jean Monnet,Lyon,Auvergne-Rhône-Alpes,Données et Sytèmes Connectés (DSC),285,69,18,1,7,11,5.6,216,24.2,17,61.1,38.9
+Université Toulouse - Jean Jaurès,Toulouse,Occitanie,"Réseaux et sociétés : données, méthodes, analyses (RESO)",120,66,18,6,9,9,33.3,54,55.0,12,50.0,50.0
+Université de Bordeaux,Bordeaux,Nouvelle-Aquitaine,"Recherche opérationnelle, Optimisation, Algorithmes et Données",191,56,13,6,9,9,46.2,135,29.3,7,69.2,69.2
+Université Toulouse III - Paul Sabatier,Toulouse,Occitanie,Ingénierie des Données et Protection (IDP),315,118,14,7,11,11,50.0,197,37.5,7,78.6,78.6
+Université de Pau et des Pays de l'Adour,Bordeaux,Nouvelle-Aquitaine,Systèmes Informatiques pour le Génie de la Logistique Industrielle et des Services (SIGLIS),108,19,5,0,3,3,0.0,89,17.6,5,60.0,60.0
+Université Grenoble Alpes,Grenoble,Auvergne-Rhône-Alpes,"Métiers de l'enseignement, de l'éducation et de la formation 2nd degré - Numérique et sciences informatiques",40,12,8,4,5,6,50.0,28,30.0,4,75.0,62.5
+Université de Bordeaux,Bordeaux,Nouvelle-Aquitaine,Informatique,1690,319,116,15,82,83,12.9,1371,18.9,101,71.6,70.7
+Nantes Université,Nantes,Pays de la Loire,Bioinformatique - Biostatistique,276,149,38,17,10,10,44.7,127,54.0,21,26.3,26.3
+Le Mans Université,Nantes,Pays de la Loire,Intelligence artificielle,498,95,16,4,13,13,25.0,403,19.1,12,81.2,81.2
+Université de Franche-Comté,Besançon,Bourgogne-Franche-Comté,Informatique avancée et applications (à distance),199,54,26,10,11,11,38.5,145,27.1,16,42.3,42.3
+Université de Bretagne Occidentale,Rennes,Bretagne,"ILIADE - Ingénierie du Logiciel, Applications aux Données Environnementales",250,39,19,5,19,19,26.3,211,15.6,14,100.0,100.0
+Université de Rennes,Rennes,Bretagne,Méthodes informatiques appliquées à la gestion des entreprises - MIAGE Parcours classique,307,107,8,3,8,8,37.5,200,34.9,5,100.0,100.0
+Université de Caen Normandie,Normandie,Normandie,"Intelligence artificielle,  sciences des données et santé",239,54,20,4,11,11,20.0,185,22.6,16,55.0,55.0
+Université de Reims Champagne-Ardenne,Reims,Grand Est,Intelligence artificielle,398,87,11,2,6,6,18.2,311,21.9,9,54.5,54.5
+Université d'Orléans,Orléans-Tours,Centre-Val de Loire,"Applications Réparties, Intelligence Artificielle et Sécurité (ARIAS)",511,114,36,3,27,30,8.3,397,22.3,33,83.3,75.0
+Université Côte d'Azur,Nice,Provence-Alpes-Côte d'Azur,Informatique,795,185,31,7,27,27,22.6,610,23.3,24,87.1,87.1
+Université de Strasbourg,Strasbourg,Grand Est,Recherche en biomédecine et sciences des données,34,25,2,1,1,1,50.0,9,73.5,1,50.0,50.0
+Université de Strasbourg,Strasbourg,Grand Est,"Automatique, signal, informatique",89,40,31,16,30,30,51.6,49,44.9,15,96.8,96.8
+Université de Strasbourg,Strasbourg,Grand Est,Droit de la propriété intellectuelle et sciences des données,76,50,5,2,5,5,40.0,26,65.8,3,100.0,100.0
+Université de Strasbourg,Strasbourg,Grand Est,Droit et gouvernance des données de santé,75,55,7,4,5,5,57.1,20,73.3,3,71.4,71.4
+Aix-Marseille Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Informatique et mathématiques discrètes (IMD),108,31,8,0,8,8,0.0,77,28.7,8,100.0,100.0
+Université de Picardie Jules-Verne,Amiens,Hauts-de-France,INFORMATIQUE - CLOUD COMPUTING AND MOBILITY (INSSET),182,26,9,0,7,0,0.0,156,14.3,9,0.0,77.8
+Université Paris-Est Créteil,Créteil,Île-de-France,"Double-diplôme Master Méthodes appliquées de la statistique et de l'économétrie pour la recherche, l'analyse et le traitement d'information (MASERATI) - Data Science & DU  Graduate Program Intelligence Artificielle - GP IA",124,51,5,3,4,4,60.0,73,41.1,2,80.0,80.0
+Université de Strasbourg,Strasbourg,Grand Est,Sciences du langage et sciences des données,32,21,3,2,1,1,66.7,11,65.6,1,33.3,33.3
+Institut catholique de Lille,Lille,Hauts-de-France,"Data & IA / Ecole Du Numérique / Faculté de Gestion, Economie & Sciences",234,60,21,3,2,13,14.3,174,25.6,18,61.9,9.5
+Université du Littoral Côte d’Opale,Lille,Hauts-de-France,Web et Science de Données (WeSciD),265,50,17,0,14,15,0.0,215,18.9,17,88.2,82.4
+École nationale supérieure de formation de l’enseignement agricole,Toulouse,Occitanie,Technologie informatique et multimédia (TIM),6,1,1,0,0,1,0.0,5,16.7,1,100.0,0.0
+Avignon Université,Aix-Marseille,Provence-Alpes-Côte d'Azur,Gouvernance des données,68,30,19,7,8,9,36.8,38,44.1,12,47.4,42.1
