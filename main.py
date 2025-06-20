@@ -798,15 +798,33 @@ st.write("## Analyse complémentaire : Répartition des profils scraping (prése
 
 st.write("### 1. Pays les plus représentés en ligne")
 st.plotly_chart(plot_top_pays(scraping_df))
+st.write("""
+        Sans surprise, les principaux contributeurs étaient principalement des économies axées sur la technologie ou la recherche.
+        Une part significative des profils ne comportait aucune localisation identifiable, soit parce que le champ était manquant, soit parce qu'il était trop ambigu pour être géolocalisé.
+""")
 
 st.write("### 2. Répartition des genres dans les principaux domaines")
 st.plotly_chart(plot_genre_par_domaine(df_domaines))
+st.write("""
+        L'analyse du genre dans les domaines techniques les plus fréquents a révélé des disparités nettes. Une dominance masculine a été observée dans presque tous les domaines, avec des ratios particulièrement déséquilibrés dans certains.
+        La science des données et l'intelligence artificielle présentent une représentation légèrement plus équilibrée, tandis que la blockchain et le cloud computing figurent parmi les domaines les plus dominés par les hommes.
+""")
 
 st.write("### 3. Répartition des genres par pays")
 st.plotly_chart(plot_ecart_genres_par_pays(scraping_df))
+st.write("""
+        Pour la carte de la répartition des genres par pays, les États-Unis comptent le plus grand nombre de profils, mais aussi un fort déséquilibre en faveur des hommes (écart de 76,4 %).
+        La France montre un déséquilibre modéré (écart masculin de 41,6 %) avec relativement peu de profils (12).
+        Certains pays comme Israël, l'Espagne ou la Colombie présentent des résultats presque équilibrés, voire en faveur des femmes, bien que fondés sur des échantillons très réduits.
+""")
 
 st.write("### 4. Répartition des genres par source")
 st.plotly_chart(plot_genre_par_source(scraping_df))
+st.write("""
+        Le genre a été déduit à partir de deux sources principales : l'API Genderize et les pronoms trouvés dans les biographies.
+        687 profils ont été identifiés via l'API Genderize tandis que 2 profils ont été identifiés grâce aux pronoms dans la biographie, tous deux masculins.
+        La répartition globale par genre dans le jeu de données met en évidence une forte prédominance masculine.
+""")
 
 
 
